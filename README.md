@@ -32,12 +32,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-3. Download the dlib shape predictor model:
-```bash
-# Download from: http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
-# Extract and place in project root
-```
-
 ## Usage
 
 1. Run the application:
