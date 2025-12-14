@@ -21,7 +21,7 @@ A hands-free document viewer that enables navigation through facial gestures usi
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/daggergad7/HCI-Project.git
 cd project2
 ```
 

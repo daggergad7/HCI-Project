@@ -29,9 +29,6 @@ env/
 dist/
 build/
 
-# dlib model (large file)
-shape_predictor_68_face_landmarks.dat
-
 # macOS
 .DS_Store
 
