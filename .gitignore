@@ -32,9 +32,6 @@ build/
 # dlib model (large file)
 shape_predictor_68_face_landmarks.dat
 
-# Config with personal calibration data
-config.json
-
 # macOS
 .DS_Store
 
