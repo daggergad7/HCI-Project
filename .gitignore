@@ -1,0 +1,45 @@
+# Documentation folder
+docs/
+
+# Demo video (large file)
+*.mp4
+
+# Slides
+slides.md
+
+# LaTeX auxiliary files
+*.log
+*.aux
+*.bbl
+*.blg
+*.out
+
+# Claude config
+.claude/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# dlib model (large file)
+shape_predictor_68_face_landmarks.dat
+
+# Config with personal calibration data
+config.json
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
