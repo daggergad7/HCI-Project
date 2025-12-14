@@ -78,7 +78,3 @@ project2/
 - **Cooldown Periods**: 2.0s cooldown after zoom toggle
 - **Gesture Isolation**: Prevents gesture interference
 - **Personalized Calibration**: Thresholds adapted to each user
-
-## Author
-
-Gliston Dsouza - Stony Brook University
