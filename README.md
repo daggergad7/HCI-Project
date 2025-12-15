@@ -55,7 +55,7 @@ python main.py
 ## Project Structure
 
 ```
-project2/
+HCI-Project/
 ├── main.py              # Main application with gesture recognition
 ├── requirements.txt     # Python dependencies
 ├── page_*.png          # Document pages to display
